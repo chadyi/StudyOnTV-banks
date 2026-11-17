@@ -3,6 +3,20 @@
   "name": "StudyOnTV 题库共享",
   "banks": [
     {
+      "name": "二年级每日一练 700 题（语数英＋生活常识・尊师礼仪・道德与法治・安全意识）",
+      "subject": "综合",
+      "level": "二年级",
+      "count": 700,
+      "author": "Toby88baby",
+      "license": "CC BY 4.0",
+      "description": "适合小学二年级：语文 155、数学 160、英语 150（剑桥 Power Up 1 对齐，英式词汇 en-GB），另含生活常识 61、尊师礼仪 60、道德与法治 55、安全意识 59。单选/多选/判断/填空，全部带解析，答案位置已打散，无重复题干。AI 生成后人工逐题校对。",
+      "file": "grade2-daily-practice-700.json",
+      "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/grade2-daily-practice-700.json",
+      "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/grade2-daily-practice-700.json",
+      "sha256": "0cdc75ea6f592da16567cb9b3a40ea59e4cd8e01cbd394609eff3eddfeb6cd0e",
+      "updatedAt": "2026-11-17"
+    },
+    {
       "name": "开放题型示例",
       "subject": "综合",
       "level": "小学",
@@ -13,7 +27,21 @@
       "file": "open-play.json",
       "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/open-play.json",
       "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/open-play.json",
-      "sha256": "dcf57dbafc2b5fdd55d5a8a8c57f32950a8ff51f8cfb7ba3347da33a4c2d389e"
+      "sha256": "e710b87eee34db5ce3e95c57ae08077953fd85232d94d8b4ffd637dde3d5623e"
+    },
+    {
+      "name": "三年级每日一练 100 题（语文・数学・英语）",
+      "subject": "综合",
+      "level": "三年级",
+      "count": 100,
+      "author": "Toby88baby",
+      "license": "CC BY 4.0",
+      "description": "适合小学三年级：语文 35、数学 40、英语 25（Power Up 1 进阶）。含单选、多选、判断、填空，全部带解析，答案位置已打散。与二年级题库完全独立，可分开导入。AI 生成后人工逐题校对。",
+      "file": "grade3-daily-practice-100.json",
+      "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/grade3-daily-practice-100.json",
+      "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/grade3-daily-practice-100.json",
+      "sha256": "01b90162e16a8525a4d8fe02959cbb6a3e1f8d9ec5e25b129db35d4bc29593e8",
+      "updatedAt": "2026-11-17"
     }
   ]
 }
