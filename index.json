@@ -14,6 +14,19 @@
       "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/open-play.json",
       "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/open-play.json",
       "sha256": "dcf57dbafc2b5fdd55d5a8a8c57f32950a8ff51f8cfb7ba3347da33a4c2d389e"
+    },
+    {
+      "name": "三年级上册综合100题",
+      "subject": "英语 / 语文 / 数学",
+      "level": "三年级",
+      "count": 100,
+      "author": "maoguojun",
+      "license": "CC BY 4.0",
+      "description": "外研版英语、人教版语文、青岛版六三制数学三年级上册综合练习，100 题，含单选、多选、判断、填空和主观题。",
+      "file": "g3a-mixed-100.json",
+      "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/g3a-mixed-100.json",
+      "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/g3a-mixed-100.json",
+      "sha256": "50d0f2ed068129775d9218a54f1048df65365d50279652e34084d2b053bdb342"
     }
   ]
 }
